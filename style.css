@@ -1,0 +1,30 @@
+/* body
+{
+    cursor:none;
+}
+img
+{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+} */
+
+.imgs-cont
+{
+    width: 50%;
+    margin: auto;
+}
+.mainImg
+{
+    width: 100%;
+}
+.imgs
+{
+    width: 25%;
+    padding: 4px;
+}
+.cont
+{
+    display: flex;
+
+}
